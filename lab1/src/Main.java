@@ -21,11 +21,11 @@ public class Main {
         String bestWord = null;
         int bestDistinct = Integer.MAX_VALUE;
 
-        for (String w : words) {
-            int d = distinctCharCount(w);
-            if (d < bestDistinct) {
-                bestDistinct = d;
-                bestWord = w;
+        for (String word : words) {
+            int distinct = distinctCharCount(word);
+            if (distinct < bestDistinct) {
+                bestDistinct = distinct;
+                bestWord = word;
             }
         }
 
