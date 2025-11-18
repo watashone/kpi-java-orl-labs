@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73d72ae5-e015-43da-8bef-4cc7c67fe43d" name="Changes" comment="Added Lab5">
+    <list default="true" id="73d72ae5-e015-43da-8bef-4cc7c67fe43d" name="Changes" comment="Added Lab6">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,24 +36,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code projects/kpi university/spring-labs/fourthlab&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code projects/kpi university/java-orl-labs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="java-orl-labs" />
@@ -120,6 +121,10 @@
       <workItem from="1762118025483" duration="441000" />
       <workItem from="1762120403192" duration="83000" />
       <workItem from="1762179252424" duration="175000" />
+      <workItem from="1762986461310" duration="73000" />
+      <workItem from="1762986651430" duration="26000" />
+      <workItem from="1763470401867" duration="34000" />
+      <workItem from="1763474733808" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="Added Lab3">
       <option name="closed" value="true" />
@@ -153,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761934364859</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Lab6">
+      <option name="closed" value="true" />
+      <created>1762986511489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762986511489</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +177,8 @@
     <MESSAGE value="Added realisation of sub-task in Lab2" />
     <MESSAGE value="Added Lab4" />
     <MESSAGE value="Added Lab5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Lab5" />
+    <MESSAGE value="Added Lab6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Lab6" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
